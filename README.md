@@ -1,0 +1,1 @@
+## Implement microservices using Spring Cloud,establish communication between microservices, enable load balancing, scaling up and down of microservices,centralize the configuration of microservices with Spring Cloud Config Server. We will implement Eureka Naming Server
